@@ -19,7 +19,7 @@ input:focus, textarea:focus, select:focus{
   color: #fff !important;
   text-transform: uppercase;
   text-decoration: none;
-  background: #5ABDA2;
+  background: #d43d49;
   padding: 20px;
   display: inline-block;
   border: none;
@@ -28,6 +28,6 @@ input:focus, textarea:focus, select:focus{
 
 .sendButton:hover
 {
-    background-color: #05A277;
+    background-color: #8d1620;
     transition: all 0.25s ease-in;     
 }

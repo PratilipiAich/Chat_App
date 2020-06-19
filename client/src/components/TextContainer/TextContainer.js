@@ -3,12 +3,18 @@ import React from 'react';
 import onlineIcon from '../../icons/onlineIcon.png';
 
 import './TextContainer.css';
+import image from '../../icons/logo1.png';
 
 const TextContainer = ({ users }) => (
   <div className="textContainer">
     <div>
-      <h1>VanillaBread <span role="img" aria-label="emoji">❤️</span></h1>
-      <h6>Created with React, Express, Node and Socket.IO </h6>
+      <h1><img
+              src={image}
+              alt="VanillaChat"
+              style={{ height: 50, width: 50, position: "relative" }}
+            /> VanillaChat</h1>
+      <h5>Let's chat it out!</h5>
+      {/* <span role="img" aria-label="emoji">❤️</span> */}
       {/* <h2>Try it out right now! <span role="img" aria-label="emoji">⬅️</span></h2> */}
     </div>
     {
