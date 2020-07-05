@@ -7,4 +7,4 @@ On start-up, enter your name and the name of your room. You'll be directed to th
 
 ## Link
 Here's the link to the hosted application:
-[VanillaBread](https://upbeat-neumann-34c595.netlify.app/)
+[VanillaChat](https://upbeat-neumann-34c595.netlify.app/)
